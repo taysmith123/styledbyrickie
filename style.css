@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Lora', serif;
+   }
+   
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+   }
+.navbar-text{
+    letter-spacing: 5px;
+}
+
+.bg-dark{
+    background-color: #515152 !important;
+}
+
+.navbar-brand{
+    font-size: 28px;
+    letter-spacing: 3px;
+}s
+
+.navbar-dark .navbar-nav .nav-link{
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 3px;  
+}
+
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+}
+
+.social a {
+    font-size: 3.5em;
+    padding: 1rem;
+}
+
+.fa-facebook-square{
+    color: #3b5998;
+}
+
+.fa-instagram{
+    color: #517fa4;
+}
+
+.carousel-item {
+    width: 100%;
+    height: auto;
+    max-height: 1268px;
+    object-fit: contain;
+}
+
+.card-body {
+    align-items: center;
+}
+
+.rounded {
+    width: 100%;
+    height: auto;
+    max-height: 1268px;
+    object-fit: contain;
+}
